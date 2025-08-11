@@ -20,6 +20,10 @@ body {
     height: 500px;
     width: 950px;
     background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px;
     background-image: var(--bg-imagens);
 }
 
